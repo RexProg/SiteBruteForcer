@@ -16,3 +16,6 @@ A simple site brute forcer based on [ThreadGun](https://github.com/RexProg/Threa
 2. put nord account or load proxylist
 3. set thread(bot) count
 4. start
+
+# Screenshot
+![screenshot](Screenshot.PNG)
